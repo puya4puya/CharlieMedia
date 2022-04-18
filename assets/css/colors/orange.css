@@ -247,7 +247,7 @@ a.hover-3:before {
 }
 
 .bg-soft-primary {
-  background-color: #fef6f5 !important;
+  background-color: #f582208f !important;
 }
 
 .text-soft-primary {
@@ -307,7 +307,8 @@ form.dark-fields .form-control:focus {
 }
 
 .btn-soft-primary {
-  background-color: #feece9;
+  background-color: #f58220;
+  color: #fff;
 }
 
 .btn-expand.btn-primary {

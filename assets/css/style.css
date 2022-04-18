@@ -26670,7 +26670,7 @@ figure img {
 }
 
 .bg-soft-primary {
-  background-color: #f1f5fd !important;
+  background-color: #f582208f !important;
 }
 
 .text-soft-primary {
@@ -45178,4 +45178,8 @@ footer.bg-dark.angled.upper-start:before {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.color-orange {
+  color: var(--bs-orange);
 }
