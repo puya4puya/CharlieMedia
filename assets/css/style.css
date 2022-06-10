@@ -45183,3 +45183,10 @@ footer.bg-dark.angled.upper-start:before {
 .color-orange {
   color: var(--bs-orange);
 }
+
+.image-full {
+  max-width: 100%;
+  max-height: 350px;
+  width: 100%;
+  object-fit: cover;
+}
