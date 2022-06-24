@@ -45199,3 +45199,10 @@ footer.bg-dark.angled.upper-start:before {
   width: 100%;
   object-fit: cover;
 }
+
+.price-currency {
+  font-size: 1rem;
+  font-weight: 500;
+  padding-top: 0.2rem;
+  position: absolute;
+}
