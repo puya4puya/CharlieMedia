@@ -5778,6 +5778,7 @@ textarea.form-control.is-invalid {
   border-radius: 0.4rem;
 }
 
+
 .card>hr {
   margin-right: 0;
   margin-left: 0;
@@ -24999,6 +25000,14 @@ textarea.form-control.is-invalid {
 
   .text-xxl-center {
     text-align: center !important;
+  }
+
+  .hmp .card {
+    margin-bottom: 1em;
+  }
+  
+  .hmp .card-body .mb-1 {
+    min-height: 3rem;
   }
 }
 
