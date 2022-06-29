@@ -11,14 +11,14 @@ require 'PHPMailer-master/PHPMailerAutoload.php';
 
 // an email address that will be in the From field of the email.
 $fromEmail = 'your-email@domain.com';
-$fromName = 'Sandbox Contact Form';
+$fromName = 'Contact Form';
 
 // an email address that will receive the email with the output of the form
 $sendToEmail = 'your-email@domain.com';
-$sendToName = 'Sandbox Contact Form';
+$sendToName = 'Contact Form';
 
 // subject of the email
-$subject = 'Message from Sandbox contact form';
+$subject = 'Message from contact form';
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
