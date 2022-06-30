@@ -60,7 +60,7 @@ Author:		elemis
   --bs-white-rgb: 255, 255, 255;
   --bs-light-rgb: 254, 254, 254;
   --bs-gray-rgb: 246, 247, 249;
-  --bs-dark-rgb: 38, 43, 50;
+  --bs-dark-rgb: 0, 0, 0;
   --bs-primary-rgb: 63, 120, 224;
   --bs-secondary-rgb: 170, 176, 188;
   --bs-success-rgb: 69, 196, 160;
@@ -27504,7 +27504,7 @@ figure img {
 
 .wrapper.bg-dark.angled.lower-start:after,
 .wrapper.bg-dark.angled.upper-start:before {
-  border-left-color: #262b32;
+  border-left-color: #000;
 }
 
 .wrapper.bg-dark.angled.lower-end:after,
@@ -44858,7 +44858,7 @@ footer [class*=col-] .widget+.widget {
 }
 
 footer.bg-dark {
-  background: #21262c !important;
+  background: #000000 !important;
 }
 
 .image-wrapper {
