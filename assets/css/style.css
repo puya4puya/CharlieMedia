@@ -50,7 +50,7 @@ Author:		elemis
   --bs-pink-rgb: 209, 107, 134;
   --bs-fuchsia-rgb: 230, 104, 179;
   --bs-red-rgb: 226, 98, 107;
-  --bs-orange-rgb: 247, 139, 119;
+  --bs-orange-rgb: 245, 130, 32;
   --bs-yellow-rgb: 250, 183, 88;
   --bs-green-rgb: 69, 196, 160;
   --bs-leaf-rgb: 124, 183, 152;
@@ -11236,7 +11236,7 @@ textarea.form-control.is-invalid {
 
 .text-navy {
   --bs-text-opacity: 1;
-  color: #343f52 !important;
+  color: #4c2a0c!important;
 }
 
 .text-ash {
